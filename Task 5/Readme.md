@@ -1,1 +1,2 @@
-
+Implementation of Word2Vec
+We will implement word2vec using Python programming language.
